@@ -1,0 +1,24 @@
+D:\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.deps.json
+D:\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.pdb
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csprojAssemblyReference.cache
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csproj.CoreCompileInputs.cache
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.AssemblyInfoInputs.cache
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.AssemblyInfo.cs
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.pdb
+D:\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csproj.CopyComplete
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.deps.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Core.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csprojAssemblyReference.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.AssemblyInfoInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.AssemblyInfo.cs
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csproj.CoreCompileInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.csproj.CopyComplete
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Core\obj\Debug\netcoreapp3.1\FlutterApp.Core.pdb

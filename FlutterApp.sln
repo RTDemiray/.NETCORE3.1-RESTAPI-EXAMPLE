@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterApp.Api", "FlutterApp.Api\FlutterApp.Api.csproj", "{FCA70622-E504-4676-8B68-FF14B13EA4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterApp.Data", "FlutterApp.Data\FlutterApp.Data.csproj", "{86FD3984-62A3-44CC-BB46-033250902FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterApp.Core", "FlutterApp.Core\FlutterApp.Core.csproj", "{845F1177-E834-4221-8F75-0B0D4959678B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA70622-E504-4676-8B68-FF14B13EA4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA70622-E504-4676-8B68-FF14B13EA4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA70622-E504-4676-8B68-FF14B13EA4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA70622-E504-4676-8B68-FF14B13EA4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FD3984-62A3-44CC-BB46-033250902FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FD3984-62A3-44CC-BB46-033250902FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FD3984-62A3-44CC-BB46-033250902FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FD3984-62A3-44CC-BB46-033250902FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845F1177-E834-4221-8F75-0B0D4959678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845F1177-E834-4221-8F75-0B0D4959678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845F1177-E834-4221-8F75-0B0D4959678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845F1177-E834-4221-8F75-0B0D4959678B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54925A72-3696-472D-A91B-392671F78C05}
+	EndGlobalSection
+EndGlobal

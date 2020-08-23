@@ -1,0 +1,24 @@
+D:\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.deps.json
+D:\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.AssemblyInfoInputs.cache
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.AssemblyInfo.cs
+D:\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.runtimeconfig.json
+D:\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.runtimeconfig.dev.json
+D:\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.csproj.CoreCompileInputs.cache
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.genruntimeconfig.cache
+D:\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.csprojAssemblyReference.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.deps.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.runtimeconfig.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.runtimeconfig.dev.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.csprojAssemblyReference.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.AssemblyInfoInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.AssemblyInfo.cs
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.csproj.CoreCompileInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Data\obj\Debug\netcoreapp3.1\FlutterApp.Data.genruntimeconfig.cache

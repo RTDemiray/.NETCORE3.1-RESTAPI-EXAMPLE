@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlutterApp.Api</name>
+    </assembly>
+    <members>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.GetAll">
+            <summary>
+            Bu endpoint tüm kategorileri list olarak geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.GetById(System.Int32)">
+            <summary>
+            Bu endpoint verilen id sahip kategoriyi döner.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen id sahip kategori bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.GetWithQuestionsById(System.Int32)">
+            <summary>
+            Bu endpoint verilen kategori id sahip soruları döner.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen kategori id sahip sorular bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.Count">
+            <summary>
+            Bu endpoint kategorilerin toplam,aktif,pasif veri sayısını geri döner.
+            </summary>
+            <returns></returns>
+            [Consumes("application/json")]
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.IsActive(FlutterApp.Api.DTOs.CategoryDto)">
+            <summary>
+            Bu endpoint kategori'nin aktiflik durumunu günceller.
+            </summary>
+            <returns></returns>
+            [Consumes("application/json")]
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.Save(FlutterApp.Api.DTOs.CategoryDto)">
+            <summary>
+            Bu endpoint kategori ekler.
+            </summary>
+            <remarks>
+            Örnek: Categories json
+             
+                POST /Todo
+                {
+                   "name": "Teknoloji",
+                }
+            
+            </remarks>
+            <param name="categoryDto">Categories json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.Update(FlutterApp.Api.DTOs.CategoryDto)">
+            <summary>
+            Bu endpoint verilen id sahip kategoriyi günceller.
+            </summary>
+            <remarks>
+            Örnek: Categories json
+             
+                POST /Todo
+                {
+                   "id": "2"
+                   "name": "Teknoloji",
+                }
+            
+            </remarks>
+            <param name="categoryDto">Categories json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            Bu endpoint verilen kategori id sahip kategoriyi siler.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen id sahip kategori bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.GlobalsController.DataCount">
+            <summary>
+            Bu endpoint categories,questions,users,scores bilgilerinin toplam veri sayısını geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.GetAll">
+            <summary>
+            Bu endpoint tüm soruları list olarak geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.GetById(System.Int32)">
+            <summary>
+            Bu endpoint verilen id sahip soruyu döner.
+            </summary>
+            <returns></returns>
+            /// <response code="404">Verilen id sahip soru bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.GetWithCategoryByIdAsync(System.Int32)">
+            <summary>
+            Bu endpoint verilen soru id sahip kategorisini döner.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen soru id sahip kategori bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.Count">
+            <summary>
+            Bu endpoint soruların toplam,aktif,pasif veri sayısını geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.IsActive(FlutterApp.Api.DTOs.QuestionsDto)">
+            <summary>
+            Bu endpoint kategori'nin aktiflik durumunu günceller.
+            </summary>
+            <returns></returns>
+            [Consumes("application/json")]
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.Save(FlutterApp.Api.DTOs.QuestionsDto)">
+            <summary>
+            Bu endpoint soru ekler.
+            </summary>
+            <remarks>
+            Örnek: Questions json
+             
+                POST /Todo
+                {
+                   "question": "soru",
+                   "OptionA": "cevap A",
+                   "OptionB": "cevap B",
+                   "OptionC": "cevap C",
+                   "OptionD": "cevap D",
+                   "OptionE": "cevap E",
+                   "TrueOption": "A",
+                   "categoriesId": 1
+                }
+            
+            </remarks>
+            <param name="questionsDto">Questions json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.Update(FlutterApp.Api.DTOs.QuestionsDto)">
+            <summary>
+            Bu endpoint soru günceller.
+            </summary>
+            <remarks>
+            Örnek: Questions json
+             
+                POST /Todo
+                {
+                   "id": 1,
+                   "question": "soru",
+                   "OptionA": "cevap A",
+                   "OptionB": "cevap B",
+                   "OptionC": "cevap C",
+                   "OptionD": "cevap D",
+                   "OptionE": "cevap E",
+                   "TrueOption": "A",
+                   "categoriesId": 1
+                }
+            
+            </remarks>
+            <param name="questionsDto">Questions json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.QuestionsController.Delete(System.Int32)">
+            <summary>
+            Bu endpoint verilen soru id sahip soruyu siler.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen id sahip soru bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.GetAll">
+            <summary>
+            Bu endpoint tüm skorları list olarak geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.GetById(System.Int32)">
+            <summary>
+            Bu endpoint verilen id sahip skoru döner.
+            </summary>
+            <returns></returns>
+            /// <response code="404">Verilen id sahip skor bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.ScoresWithCategory(System.Int32)">
+            <summary>
+            Bu endpoint verilen skor id sahip kategorisini döner.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen skor id sahip kategori bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.Count">
+            <summary>
+            Bu endpoint skorların toplam,aktif,pasif veri sayısını geri döner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.Save(FlutterApp.Api.DTOs.ScoresDto)">
+            <summary>
+            Bu endpoint skor ekler.
+            </summary>
+            <remarks>
+            Örnek: Scores json
+             
+                POST /Todo
+                {
+                   "rank": 50,
+                   "userName": "Recep",
+                   "categoriesId": 1
+                }
+            
+            </remarks>
+            <param name="ScoresDto">Scores json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.Update(FlutterApp.Api.DTOs.ScoresDto)">
+            <summary>
+            Bu endpoint verilen id sahip skoru günceller.
+            </summary>
+            <remarks>
+            Örnek: Scores json
+             
+                POST /Todo
+                {
+                   "id": "2"
+                   "rank": 50,
+                   "userName": "Recep",
+                   "categoriesId": 1
+                }
+            
+            </remarks>
+            <param name="ScoresDto">Scores json nesnesi</param>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.ScoresController.Delete(System.Int32)">
+            <summary>
+            Bu endpoint verilen skor id sahip skoru siler.
+            </summary>
+            <returns></returns>
+            <response code="404">Verilen id sahip skor bulunamadı!</response>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.UsersController.Authenticate(FlutterApp.Api.Models.AuthenticateModel)">
+            <summary>
+            Bu endpoint ile login işlemi yapılır ve token üretilir.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlutterApp.Api.Controllers.UsersController.GetAll">
+            <summary>
+            Bu endpoint ile api kullanıcılarının listesi döner.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

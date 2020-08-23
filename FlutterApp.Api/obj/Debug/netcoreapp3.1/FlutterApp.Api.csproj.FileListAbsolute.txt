@@ -1,0 +1,310 @@
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.exe
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.deps.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.runtimeconfig.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.runtimeconfig.dev.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.pdb
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csprojAssemblyReference.cache
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.AssemblyInfoInputs.cache
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.AssemblyInfo.cs
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.RazorTargetAssemblyInfo.cache
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\FlutterApp.Api.StaticWebAssets.Manifest.cache
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\FlutterApp.Api.StaticWebAssets.xml
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.dll
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.pdb
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.genruntimeconfig.cache
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csproj.CopyComplete
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Core.pdb
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.xml
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.xml
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csproj.CoreCompileInputs.cache
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.exe
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.deps.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.runtimeconfig.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.runtimeconfig.dev.json
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Api.xml
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Core.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Data.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Core.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\bin\Debug\netcoreapp3.1\FlutterApp.Data.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csprojAssemblyReference.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.AssemblyInfoInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.AssemblyInfo.cs
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csproj.CoreCompileInputs.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.RazorTargetAssemblyInfo.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.csproj.CopyComplete
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\FlutterApp.Api.StaticWebAssets.Manifest.cache
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\FlutterApp.Api.StaticWebAssets.xml
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.dll
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.xml
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.pdb
+D:\Github Repolarım\FlutterApp\FlutterApp.Api\obj\Debug\netcoreapp3.1\FlutterApp.Api.genruntimeconfig.cache
